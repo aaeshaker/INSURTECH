@@ -1,0 +1,25 @@
+.container-fluid {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+// Color Classes
+.c2-a {
+  color: $C2-A;
+}
+
+.c1-a {
+  color: $C1-A;
+}
+
+// User Interactions Classes
+.cursor-pointer {
+  cursor: pointer;
+}
+
+// Image Classes
+.img-fit {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
